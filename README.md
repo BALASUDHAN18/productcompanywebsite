@@ -337,15 +337,21 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ## About us :
+
 ![image](https://user-images.githubusercontent.com/118807740/215309631-1602aa38-5213-4a06-8f31-15b5d013b7ba.png)
+
  ## products :
+ 
+ 
  ![image](https://user-images.githubusercontent.com/118807740/215309776-34a81d4b-961f-4c99-95de-409386194780.png)
 
 
 ### People :
+
 ![image](https://user-images.githubusercontent.com/118807740/215309674-b90035e9-32ad-4651-b155-f12ef8c765d4.png)
 
 ## Conatact :
+
 ![image](https://user-images.githubusercontent.com/118807740/215309701-58d155d8-2246-436e-9144-47f0394cf01f.png)
 
 
