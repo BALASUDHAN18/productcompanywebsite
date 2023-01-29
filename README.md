@@ -336,8 +336,10 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-
-![Screenshot from 2023-01-28 11-42-54](https://user-images.githubusercontent.com/118807740/215250484-88e20f42-b69f-42ab-aa7e-8a90fefe1f69.png)
+![aj1](https://user-images.githubusercontent.com/118807740/215309516-d487a815-0b82-457b-bdd3-f7d48a39b317.png)
+![aj2](https://user-images.githubusercontent.com/118807740/215309546-f129311d-be55-4af8-8508-e080780e3552.png)
+![aj3](https://user-images.githubusercontent.com/118807740/215309562-21f96f97-dba6-4c51-a1f7-7496d345ff54.png)
+![aj4](https://user-images.githubusercontent.com/118807740/215309599-05e03912-64aa-495d-bb7e-4fe908e71a6b.png)
 
 
 ## Result:
