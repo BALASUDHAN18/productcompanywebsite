@@ -337,9 +337,15 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ![aj1](https://user-images.githubusercontent.com/118807740/215309516-d487a815-0b82-457b-bdd3-f7d48a39b317.png)
-![aj2](https://user-images.githubusercontent.com/118807740/215309546-f129311d-be55-4af8-8508-e080780e3552.png)
-![aj3](https://user-images.githubusercontent.com/118807740/215309562-21f96f97-dba6-4c51-a1f7-7496d345ff54.png)
-![aj4](https://user-images.githubusercontent.com/118807740/215309599-05e03912-64aa-495d-bb7e-4fe908e71a6b.png)
+## About us :
+![image](https://user-images.githubusercontent.com/118807740/215309631-1602aa38-5213-4a06-8f31-15b5d013b7ba.png)
+
+### People :
+![image](https://user-images.githubusercontent.com/118807740/215309674-b90035e9-32ad-4651-b155-f12ef8c765d4.png)
+
+## Conatact :
+![image](https://user-images.githubusercontent.com/118807740/215309701-58d155d8-2246-436e-9144-47f0394cf01f.png)
+
 
 
 ## Result:
